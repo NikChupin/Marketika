@@ -20,7 +20,7 @@ ul {
 
 .section-header {
     color: white;
-    background: url(/img/Object.png) no-repeat 50% 50%;
+    background: url(img/Object.png) no-repeat 50% 50%;
     background-size: cover;
     position: relative;
 }
